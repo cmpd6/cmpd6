@@ -1,5 +1,6 @@
-### Hi there 👋
+### Computational and Mathematical Population Dynamics 6 Conference
 
+This is where the files for the website of the conference are stored. If you are looking for information about the conference, you should not be here. Instead, you should be [on the conference website](https://cmpd6.github.io/).
 <!--
 **cmpd6/cmpd6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
